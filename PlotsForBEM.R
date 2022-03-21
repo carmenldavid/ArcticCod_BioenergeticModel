@@ -1,10 +1,10 @@
 # ======================= #
-# PLOTS FOR BEM           #
+# PLOTS FOR PUBLICATION   #
 # ======================= #
 # revised December 2021, Carmen L David
 #
 # Includes:
-#    - plots for BEM manuscript after revision
+#    - plots for manuscript after revision
 #    - plots for supplementary material
 #    - comments on data used in plots
 
