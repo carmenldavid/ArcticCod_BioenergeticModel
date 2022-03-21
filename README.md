@@ -1,7 +1,4 @@
 # ArcticCod_BioenergeticModel
-R scripts for publication:
+R scripts for publication
 
-"The interactive effects of temperature and food consumption on growth of larval Arctic cod (Boreogadus saida): a bioenergetic model"
-Authors: Carmen L. David, Rubao Ji, Caroline Bouchard, Haakon Hop and Jeffrey A. Hutchings
-
-submitted to journal Elementa: Science of the Anthropocene
+David, CL, Ji, R, Bouchard, C, Hop , H and Hutchings, JA. 2022. The interactive effects of temperature and food consumption on growth of larval Arctic cod (Boreogadus saida): A bioenergetic model. Elem Sci Anth, 10: 1. DOI: https://doi.org/10.1525/elementa.2021.00045
